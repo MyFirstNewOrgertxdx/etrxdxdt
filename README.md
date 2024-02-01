@@ -21,4 +21,7 @@
 - RGB
 - HSL
 ```
+:EMOJICODE:wefef :+1: wefwegwefg - efqwef! :shipit:
+
 "Этот текст написан красным цветом, как показано в [#FF0000]."
+
